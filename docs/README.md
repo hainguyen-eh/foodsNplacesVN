@@ -77,4 +77,7 @@
 - **Bún hải sản `(seafood noodle)`**
 > <img src="./foods/danang/assets/bunhaisan.webp" alt="bunhaisan" width="200" height="150" />
 
+- **Cơm hến `(baby basket clams rice)`**
+> <img src="./foods/danang/assets/comhen.webp" alt="comhen" width="200" height="150" />
+
 ### Places:
