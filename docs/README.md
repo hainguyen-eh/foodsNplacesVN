@@ -62,4 +62,7 @@
 - **Bánh bột lọc `(rice dumpling cake)`**
 > <img src="./foods/danang/assets/banhbotloc.webp" alt="banhbotloc" width="200" height="150"/>
 
+- **Bánh căn `(Vietnamese mini pancake)`**
+> <img src="./foods/danang/assets/banhcan.webp" alt="banhcan" width="200" height="150" />
+
 ### Places:
