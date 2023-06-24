@@ -83,7 +83,7 @@
 - **Bánh đập `(crushed rice cracker)`**
 > <img src="./foods/danang/assets/banhdap.webp" alt="banhdap" width="200" height="150" />
 
-- **Bún mắm nêm `(rice vermicelli with smelly fish sauce)`**
+- **[Bún mắm nêm](./foods/danang/bunmamnem.md) `(rice vermicelli with smelly fish sauce)`**
 > <img src="./foods/danang/assets/bunmamnem.webp" alt="bunmamnem" width="200" height="150" />
 
 - **Bún chả cá `(fish cake noodle)`**
