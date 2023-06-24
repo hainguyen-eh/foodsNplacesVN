@@ -83,4 +83,7 @@
 - **Nem tré `(fried fermented pork roll)`**
 > <img src="./foods/danang/assets/nemtre.webp" alt="nemtre" width="200" height="150" />
 
+- **Phá lấu `(beef offal)`**
+> <img src="./foods/danang/assets/phalau.webp" alt="nemtre" width="200" height="150" />
+
 ### Places:
