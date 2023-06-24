@@ -10,6 +10,9 @@
 - **Cao Lầu**
 > <img src="./foods/hoian/assets/caolau.jpeg" alt="caolau" width="200" height="150"/>
 
+- **Tào phớ**
+> <img src="./foods/hoian/assets/taopho.webp" alt="taopho" width="200" height="150"/>
+
 ### Places:
 - **Khu phố cổ `(old town)`**
 
