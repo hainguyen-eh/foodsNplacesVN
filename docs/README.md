@@ -62,6 +62,9 @@
 - **Làng rau Trà Quế `(Tra Que vegetable village)`**
 > <img src="./places/hoian/assets/langrautraque.jpeg" alt="langrautraque" width="200" height="150"/>
 
+- **Rừng dừa Bảy Mẫu `(Bay Mau coconut forest)`**
+> <img src="./places/hoian/assets/rungduabaymau.jpeg" alt="rungduabaymau" width="200" height="150"/>
+
 ## [DaNang]
 
 ### Food:
