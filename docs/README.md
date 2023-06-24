@@ -116,3 +116,6 @@
 
 - **Làng cổ Phong Nam `(Phong Nam ancient village)`**
 > <img src="./places/danang/assets/langcophongnam.jpeg" alt="langcophongnam" width="200" height="150" />
+
+- **Cầu sông Hàn `(Han river bridge)`**
+> <img src="./places/danang/assets/causonghan.jpeg" alt="causonghan" width="200" height="150" />
