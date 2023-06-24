@@ -84,6 +84,9 @@
 > <img src="./foods/danang/assets/nemtre.webp" alt="nemtre" width="200" height="150" />
 
 - **Phá lấu `(beef offal)`**
-> <img src="./foods/danang/assets/phalau.webp" alt="nemtre" width="200" height="150" />
+> <img src="./foods/danang/assets/phalau.webp" alt="phalau" width="200" height="150" />
+
+- **Kem bơ `(avocado ice cream)`**
+> <img src="./foods/danang/assets/kembo.webp" alt="kembo" width="200" height="150" />
 
 ### Places:
