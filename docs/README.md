@@ -119,3 +119,6 @@
 
 - **Cầu sông Hàn `(Han river bridge)`**
 > <img src="./places/danang/assets/causonghan.jpeg" alt="causonghan" width="200" height="150" />
+
+- **Cầu khoá tình yêu `(love lock bridge)`**
+> <img src="./places/danang/assets/caukhoatinhyeu.jpeg" alt="caukhoatinhyeu" width="200" height="150" />
