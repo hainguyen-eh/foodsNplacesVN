@@ -122,3 +122,6 @@
 
 - **Cầu khoá tình yêu `(love lock bridge)`**
 > <img src="./places/danang/assets/caukhoatinhyeu.jpeg" alt="caukhoatinhyeu" width="200" height="150" />
+
+- **Đỉnh bàn cờ `(Ban Co peak)`**
+> <img src="./places/danang/assets/dinhbanco.webp" alt="dinhbanco" width="200" height="150" />
