@@ -5,10 +5,10 @@
 > <img src="./foods/hoian/assets/banhmi__phuong.jpeg" alt="banhmi" width="200" height="150"/>
 
 - **Cơm gà `(chicken rice)`**
-> <img src="./foods/hoian/assets/comga.jpeg" alt="comga" width="200" height="150"/>
+> <img src="./foods/hoian/assets/comga_02.jpeg" alt="comga" width="200" height="150"/>
 
 - **Cao lầu `(Hoi An noodles)`**
-> <img src="./foods/hoian/assets/caolau.jpeg" alt="caolau" width="200" height="150"/>
+> <img src="./foods/hoian/assets/caolau_02.webp" alt="caolau" width="200" height="150"/>
 
 - **Bánh hoa hồng trắng `(white rose)`**
 > <img src="./foods/hoian/assets/banhhoahongtrang.jpeg" alt="banhhoahongtrang" width="200" height="150"/>
@@ -21,6 +21,9 @@
 
 - **Bún thịt nướng `(Grilled pork and rice vermicelli)`**
 > <img src="./foods/hoian/assets/bunthitnuong.jpeg" alt="bunthitnuong" width="200" height="150"/>
+
+- **Bánh xèo `(crispy Vietnamese pancake)`**
+> <img src="./foods/hoian/assets/banhxeo.png" alt="banhxeo" width="200" height="150"/>
 
 - **Bánh tôm `(fried shrimp cake)`**
 > <img src="./foods/hoian/assets/banhtom.jpeg" alt="banhtom" width="200" height="150"/>
