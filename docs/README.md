@@ -110,3 +110,6 @@
 
 - **Cầu rồng `(The Dragon bridge)`**
 > <img src="./places/danang/assets/caurong.jpeg" alt="caurong" width="200" height="150"/>
+
+- **Đèo Hải Vân `(Hai Van Pass)`**
+> <img src="./places/danang/assets/deohaivan.jpeg" alt="deohaivan" width="200" height="150"/>
