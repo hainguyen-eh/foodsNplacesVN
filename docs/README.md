@@ -59,4 +59,7 @@
 - **Bánh nậm `(flat steamed rice dumplings)`**
 > <img src="./foods/danang/assets/banhnam.webp" alt="banhnam" width="200" height="150"/>
 
+- **Bánh bột lọc `(rice dumpling cake)`**
+> <img src="./foods/danang/assets/banhbotloc.webp" alt="banhbotloc" width="200" height="150"/>
+
 ### Places:
