@@ -25,6 +25,9 @@
 - **Bánh tôm `(fried shrimp cake)`**
 > <img src="./foods/hoian/assets/banhtom.jpeg" alt="banhtom" width="200" height="150"/>
 
+- **Bánh ghẹ `(fried crab cake)`**
+> <img src="./foods/hoian/assets/banhghe.jpeg" alt="banhghe" width="200" height="150"/>
+
 - **Tào phớ `(tofu pudding)`**
 > <img src="./foods/hoian/assets/taopho.webp" alt="taopho" width="200" height="150"/>
 
