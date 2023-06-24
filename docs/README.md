@@ -59,6 +59,9 @@
 - **Làng gốm Thanh Hà `(Thanh Ha pottery village)`**
 > <img src="./places/hoian/assets/langomthanhha.jpeg" alt="langomthanhha" width="200" height="150"/>
 
+- **Làng rau Trà Quế `(Tra Que vegetable village)`**
+> <img src="./places/hoian/assets/langrautraque.jpeg" alt="langrautraque" width="200" height="150"/>
+
 ## [DaNang]
 
 ### Food:
