@@ -99,3 +99,5 @@
 > <img src="./foods/danang/assets/chesaurieng.webp" alt="chesaurieng" width="200" height="150" />
 
 ### Places:
+- **Bà Nà Hills `(Ba Na Hills)`**
+> <img src="./places/danang/assets/banahills.jpeg" alt="banahills" width="200" height="150"/>
