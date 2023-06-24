@@ -50,6 +50,9 @@
 - **Khu phố cổ `(old town)`**
 > <img src="./places/hoian/assets/phoco.jpeg" alt="phoco" width="200" height="150"/>
 
+- **Chùa Cầu `(Cau pagoda)`**
+> <img src="./places/hoian/assets/chuacau.jpeg" alt="chuacau" width="200" height="150"/>
+
 ## [DaNang]
 
 ### Food:
