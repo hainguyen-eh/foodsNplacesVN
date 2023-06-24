@@ -125,3 +125,6 @@
 
 - **Đỉnh bàn cờ `(Ban Co peak)`**
 > <img src="./places/danang/assets/dinhbanco.webp" alt="dinhbanco" width="200" height="150" />
+
+- **Chùa Linh Ứng `(Linh Ung pagoda)`**
+> <img src="./places/danang/assets/chualinhung.jpeg" alt="chualinhung" width="200" height="150" />
