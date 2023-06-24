@@ -89,4 +89,7 @@
 - **Kem bơ `(avocado ice cream)`**
 > <img src="./foods/danang/assets/kembo.webp" alt="kembo" width="200" height="150" />
 
+- **Chè sầu riêng `(durian sweet soup)`**
+> <img src="./foods/danang/assets/chesaurieng.webp" alt="chesaurieng" width="200" height="150" />
+
 ### Places:
