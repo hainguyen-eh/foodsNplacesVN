@@ -71,4 +71,7 @@
 - **Bún mắm nêm `(rice vermicelli with smelly fish sauce)`**
 > <img src="./foods/danang/assets/bunmamnem.webp" alt="bunmamnem" width="200" height="150" />
 
+- **Bún chả cá `(fish cake noodle)`**
+> <img src="./foods/danang/assets/bunchaca.webp" alt="bunchaca" width="200" height="150" />
+
 ### Places:
