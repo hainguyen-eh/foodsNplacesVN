@@ -10,6 +10,9 @@
 - **Cao lầu**
 > <img src="./foods/hoian/assets/caolau.jpeg" alt="caolau" width="200" height="150"/>
 
+- **Bánh hoa hồng trắng**
+> <img src="./foods/hoian/assets/banhhoahongtrang.jpeg" alt="banhhoahongtrang" width="200" height="150"/>
+
 - **Tào phớ**
 > <img src="./foods/hoian/assets/taopho.webp" alt="taopho" width="200" height="150"/>
 
