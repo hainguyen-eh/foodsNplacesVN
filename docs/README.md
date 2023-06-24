@@ -74,4 +74,7 @@
 - **Bún chả cá `(fish cake noodle)`**
 > <img src="./foods/danang/assets/bunchaca.webp" alt="bunchaca" width="200" height="150" />
 
+- **Bún hải sản `(seafood noodle)`**
+> <img src="./foods/danang/assets/bunhaisan.webp" alt="bunhaisan" width="200" height="150" />
+
 ### Places:
