@@ -1,49 +1,49 @@
 ## [HoiAn]
 
 ### Food:
-- **Bánh mì `(bread)`**
+- **[Bánh mì](./foods/hoian/banhmi.md) `(bread)`**
 > <img src="./foods/hoian/assets/banhmi__phuong.jpeg" alt="banhmi" width="200" height="150"/>
 
-- **Cơm gà `(chicken rice)`**
+- **[Cơm gà](./foods/hoian/comga.md) `(chicken rice)`**
 > <img src="./foods/hoian/assets/comga_02.jpeg" alt="comga" width="200" height="150"/>
 
-- **Cao lầu `(Hoi An noodles)`**
+- **[Cao lầu](./foods/hoian/caolau.md) `(Hoi An noodles)`**
 > <img src="./foods/hoian/assets/caolau_02.webp" alt="caolau" width="200" height="150"/>
 
-- **Bánh hoa hồng trắng `(white rose)`**
+- **[Bánh hoa hồng trắng](./foods/hoian/banhhoahongtrang.md) `(white rose)`**
 > <img src="./foods/hoian/assets/banhhoahongtrang.jpeg" alt="banhhoahongtrang" width="200" height="150"/>
 
-- **Bánh bèo chén `(water fern cake in a small bowl)`**
+- **[Bánh bèo chén](./foods/hoian/banhbeochen.md) `(water fern cake in a small bowl)`**
 > <img src="./foods/hoian/assets/banhbeochen.jpeg" alt="banhbeochen" width="200" height="150"/>
 
-- **Bánh ướt thịt nướng `(steamed thin rice pancake and grilled pork)`**
+- **[Bánh ướt thịt nướng](./foods/hoian/banhuotthitnuong.md) `(steamed thin rice pancake and grilled pork)`**
 > <img src="./foods/hoian/assets/banhuotthitnuong.jpeg" alt="banhuotthitnuong" width="200" height="150"/>
 
-- **Bún thịt nướng `(Grilled pork and rice vermicelli)`**
+- **[Bún thịt nướng](./foods/hoian/bunthitnuong.md) `(Grilled pork and rice vermicelli)`**
 > <img src="./foods/hoian/assets/bunthitnuong.jpeg" alt="bunthitnuong" width="200" height="150"/>
 
-- **Bánh xèo `(sizzling crepes)`**
+- **[Bánh xèo](./foods/hoian/banhxeo.md) `(sizzling crepes)`**
 > <img src="./foods/hoian/assets/banhxeo_02.webp" alt="banhxeo" width="200" height="150"/>
 
-- **Mì hoành thánh (vằn thắn) `(wonton soup)`**
+- **[Mì hoành thánh (vằn thắn)](./foods/hoian/mihoanhthanh.md) `(wonton soup)`**
 > <img src="./foods/hoian/assets/mihoanhthanh.webp" alt="mihoanhthanh" width="200" height="150"/>
 
-- **Bánh tôm `(shrimp in batter)`**
+- **[Bánh tôm](./foods/hoian/banhtom.md) `(shrimp in batter)`**
 > <img src="./foods/hoian/assets/banhtom.jpeg" alt="banhtom" width="200" height="150"/>
 
-- **Bánh ghẹ `(fried crab cake)`**
+- **[Bánh ghẹ](./foods/hoian/banhghe.md) `(fried crab cake)`**
 > <img src="./foods/hoian/assets/banhghe.jpeg" alt="banhghe" width="200" height="150"/>
 
-- **Tào phớ `(tofu pudding)`**
+- **[Tào phớ](./foods/hoian/taopho.md) `(tofu pudding)`**
 > <img src="./foods/hoian/assets/taopho.webp" alt="taopho" width="200" height="150"/>
 
-- **Chí mà phù (chè mè đen) `(a kind of sweet soup)`**
+- **[Chí mà phù (chè mè đen)](./foods/hoian/chimaphu.md) `(a kind of sweet soup)`**
 > <img src="./foods/hoian/assets/chemeden.jpeg" alt="chemeden" width="200" height="150"/>
 
-- **Chè bắp `(sweet corn porridge)`**
+- **[Chè bắp](./foods/hoian/chebap.md) `(sweet corn porridge)`**
 > <img src="./foods/hoian/assets/chebap.jpeg" alt="chebap" width="200" height="150"/>
 
-- **Chè đậu đỏ `(red bean sweet soup)`**
+- **[Chè đậu đỏ](./foods/hoian/chedaudo.md) `(red bean sweet soup)`**
 > <img src="./foods/hoian/assets/chedaudo.webp" alt="chedaudo" width="200" height="150"/>
 
 ### Places:
