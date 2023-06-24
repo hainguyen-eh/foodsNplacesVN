@@ -56,4 +56,7 @@
 - **Bánh tráng kẹp `(rice paper sandwich)`**
 > <img src="./foods/danang/assets/banhtrangkep.webp" alt="banhtrangkep" width="200" height="150"/>
 
+- **Bánh nậm `(flat steamed rice dumplings)`**
+> <img src="./foods/danang/assets/banhnam.webp" alt="banhnam" width="200" height="150"/>
+
 ### Places:
