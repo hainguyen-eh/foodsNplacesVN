@@ -80,4 +80,7 @@
 - **Cơm hến `(baby basket clams rice)`**
 > <img src="./foods/danang/assets/comhen.webp" alt="comhen" width="200" height="150" />
 
+- **Nem tré `(fried fermented pork roll)`**
+> <img src="./foods/danang/assets/nemtre.webp" alt="nemtre" width="200" height="150" />
+
 ### Places:
