@@ -16,6 +16,9 @@
 - **Bánh bèo chén `(water fern cake in a small bowl)`**
 > <img src="./foods/hoian/assets/banhbeochen.jpeg" alt="banhbeochen" width="200" height="150"/>
 
+- **Bánh ướt thịt nướng `(steamed thin rice pancake and grilled pork)`**
+> <img src="./foods/hoian/assets/banhuotthitnuong.jpeg" alt="banhuotthitnuong" width="200" height="150"/>
+
 - **Tào phớ `(tofu pudding)`**
 > <img src="./foods/hoian/assets/taopho.webp" alt="taopho" width="200" height="150"/>
 
