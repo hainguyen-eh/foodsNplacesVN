@@ -104,3 +104,6 @@
 
 - **Thánh địa Mỹ Sơn `(My Son Sanctuary)`**
 > <img src="./places/danang/assets/thanhdiamyson.webp" alt="thanhdiamyson" width="200" height="150"/>
+
+- **Ngũ Hành Sơn `(Marble Mountains)`**
+> <img src="./places/danang/assets/nguhanhson.jpeg" alt="nguhanhson" width="200" height="150"/>
