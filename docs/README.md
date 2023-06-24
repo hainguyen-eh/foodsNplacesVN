@@ -113,3 +113,6 @@
 
 - **Đèo Hải Vân `(Hai Van Pass)`**
 > <img src="./places/danang/assets/deohaivan.jpeg" alt="deohaivan" width="200" height="150"/>
+
+- **Làng cổ Phong Nam `(Phong Nam ancient village)`**
+> <img src="./places/danang/assets/langcophongnam.jpeg" alt="langcophongnam" width="200" height="150" />
