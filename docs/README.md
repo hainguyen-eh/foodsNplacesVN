@@ -34,6 +34,9 @@
 - **Chí mà phù (chè mè đen) `(a kind of sweet soup)`**
 > <img src="./foods/hoian/assets/chemeden.jpeg" alt="chemeden" width="200" height="150"/>
 
+- **Chè bắp `(corn sweet soup)`**
+> <img src="./foods/hoian/assets/chebap.jpeg" alt="chebap" width="200" height="150"/>
+
 ### Places:
 - **Khu phố cổ `(old town)`**
 > <img src="./places/hoian/assets/phoco.jpeg" alt="phoco" width="200" height="150"/>
