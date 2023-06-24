@@ -22,6 +22,9 @@
 - **Bún thịt nướng `(Grilled pork and rice vermicelli)`**
 > <img src="./foods/hoian/assets/bunthitnuong.jpeg" alt="bunthitnuong" width="200" height="150"/>
 
+- **Bánh tôm `(fried shrimp cake)`**
+> <img src="./foods/hoian/assets/banhtom.jpeg" alt="banhtom" width="200" height="150"/>
+
 - **Tào phớ `(tofu pudding)`**
 > <img src="./foods/hoian/assets/taopho.webp" alt="taopho" width="200" height="150"/>
 
