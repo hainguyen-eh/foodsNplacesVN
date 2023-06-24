@@ -56,6 +56,9 @@
 - **Chợ Hội An `(Hoi An market)`**
 > <img src="./places/hoian/assets/chohoian.png" alt="chohoian" width="200" height="150"/>
 
+- **Làng gốm Thanh Hà `(Thanh Ha pottery village)`**
+> <img src="./places/hoian/assets/langomthanhha.jpeg" alt="langomthanhha" width="200" height="150"/>
+
 ## [DaNang]
 
 ### Food:
