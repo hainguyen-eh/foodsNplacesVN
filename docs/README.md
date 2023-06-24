@@ -107,3 +107,6 @@
 
 - **Ngũ Hành Sơn `(Marble Mountains)`**
 > <img src="./places/danang/assets/nguhanhson.jpeg" alt="nguhanhson" width="200" height="150"/>
+
+- **Cầu rồng `(The Dragon bridge)`**
+> <img src="./places/danang/assets/caurong.jpeg" alt="caurong" width="200" height="150"/>
