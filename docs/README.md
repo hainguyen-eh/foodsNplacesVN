@@ -53,5 +53,7 @@
 ## [DaNang]
 
 ### Food:
+- **Bánh tráng kẹp `(rice paper sandwich)`**
+> <img src="./foods/danang/assets/banhtrangkep.webp" alt="banhtrangkep" width="200" height="150"/>
 
 ### Places:
