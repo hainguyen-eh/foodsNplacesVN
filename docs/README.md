@@ -101,3 +101,6 @@
 ### Places:
 - **Bà Nà Hills `(Ba Na Hills)`**
 > <img src="./places/danang/assets/banahills.jpeg" alt="banahills" width="200" height="150"/>
+
+- **Thánh địa Mỹ Sơn `(My Son Sanctuary)`**
+> <img src="./places/danang/assets/thanhdiamyson.webp" alt="thanhdiamyson" width="200" height="150"/>
