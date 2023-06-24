@@ -53,6 +53,9 @@
 - **Chùa Cầu `(Cau pagoda)`**
 > <img src="./places/hoian/assets/chuacau.jpeg" alt="chuacau" width="200" height="150"/>
 
+- **Chợ Hội An `(Hoi An market)`**
+> <img src="./places/hoian/assets/chohoian.png" alt="chohoian" width="200" height="150"/>
+
 ## [DaNang]
 
 ### Food:
