@@ -86,6 +86,9 @@
 - **Phá lấu `(beef offal)`**
 > <img src="./foods/danang/assets/phalau.webp" alt="phalau" width="200" height="150" />
 
+- **Ram cuốn lá cải `(fried spring roll in cabbage)`**
+> <img src="./foods/danang/assets/ramcuonlacai.webp" alt="ramcuonlacai" width="200" height="150" />
+
 - **Kem bơ `(avocado ice cream)`**
 > <img src="./foods/danang/assets/kembo.webp" alt="kembo" width="200" height="150" />
 
