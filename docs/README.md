@@ -89,6 +89,9 @@
 - **Ram cuốn lá cải `(fried spring roll in cabbage)`**
 > <img src="./foods/danang/assets/ramcuonlacai.webp" alt="ramcuonlacai" width="200" height="150" />
 
+- **Cháo quẩy sườn sụn `(rice porridge with deep-fried dough sticks and pork ribs)`**
+> <img src="./foods/danang/assets/chaoquaysuonsun.webp" alt="chaoquaysuonsun" width="200" height="150" />
+
 - **Kem bơ `(avocado ice cream)`**
 > <img src="./foods/danang/assets/kembo.webp" alt="kembo" width="200" height="150" />
 
