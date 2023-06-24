@@ -22,13 +22,13 @@
 - **Bún thịt nướng `(Grilled pork and rice vermicelli)`**
 > <img src="./foods/hoian/assets/bunthitnuong.jpeg" alt="bunthitnuong" width="200" height="150"/>
 
-- **Bánh xèo `(crispy Vietnamese pancake)`**
+- **Bánh xèo `(sizzling crepes)`**
 > <img src="./foods/hoian/assets/banhxeo_02.webp" alt="banhxeo" width="200" height="150"/>
 
 - **Mì hoành thánh (vằn thắn) `(wonton soup)`**
 > <img src="./foods/hoian/assets/mihoanhthanh.webp" alt="mihoanhthanh" width="200" height="150"/>
 
-- **Bánh tôm `(fried shrimp cake)`**
+- **Bánh tôm `(shrimp in batter)`**
 > <img src="./foods/hoian/assets/banhtom.jpeg" alt="banhtom" width="200" height="150"/>
 
 - **Bánh ghẹ `(fried crab cake)`**
@@ -40,7 +40,7 @@
 - **Chí mà phù (chè mè đen) `(a kind of sweet soup)`**
 > <img src="./foods/hoian/assets/chemeden.jpeg" alt="chemeden" width="200" height="150"/>
 
-- **Chè bắp `(corn sweet soup)`**
+- **Chè bắp `(sweet corn porridge)`**
 > <img src="./foods/hoian/assets/chebap.jpeg" alt="chebap" width="200" height="150"/>
 
 - **Chè đậu đỏ `(red bean sweet soup)`**
@@ -64,5 +64,8 @@
 
 - **Bánh căn `(Vietnamese mini pancake)`**
 > <img src="./foods/danang/assets/banhcan.webp" alt="banhcan" width="200" height="150" />
+
+- **Bánh đập `(crushed rice cracker)`**
+> <img src="./foods/danang/assets/banhdap.webp" alt="banhdap" width="200" height="150" />
 
 ### Places:
