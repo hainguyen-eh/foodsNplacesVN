@@ -11,6 +11,12 @@
 > <img src="./foods/hoian/assets/banhmi__phuong.jpeg" alt="banhmi" width="200" height="150"/>
 
 - **[Cơm gà](./foods/hoian/comga.md) `(chicken rice)`**
+<div>
+	<audio controls="controls">
+	  <source type="audio/mpeg" src="https://dictionary.cambridge.org//media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
+	  <source type="audio/ogg" src="https://dictionary.cambridge.org//media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
+	</audio>
+</div>
 > <img src="./foods/hoian/assets/comga_02.jpeg" alt="comga" width="200" height="150"/>
 
 - **[Cao lầu](./foods/hoian/caolau.md) `(Hoi An noodles)`**
