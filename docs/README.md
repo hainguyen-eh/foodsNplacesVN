@@ -2,10 +2,12 @@
 
 ### Food:
 - **[Bánh mì](./foods/hoian/banhmi.md) `(bread)`**
-<audio controls="controls">
-  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo06/cdo0622usbanh0181.mp3">
-  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/us_pron_ogg/c/cdo/cdo06/cdo0622usbanh0181.ogg">
-</audio>
+<div>
+	<audio controls="controls">
+	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo06/cdo0622usbanh0181.mp3">
+	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/us_pron_ogg/c/cdo/cdo06/cdo0622usbanh0181.ogg">
+	</audio>
+</div>
 > <img src="./foods/hoian/assets/banhmi__phuong.jpeg" alt="banhmi" width="200" height="150"/>
 
 - **[Cơm gà](./foods/hoian/comga.md) `(chicken rice)`**
