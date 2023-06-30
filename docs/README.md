@@ -248,7 +248,7 @@
 </div>
 > <img src="./foods/danang/assets/nemtre.webp" alt="nemtre" width="200" height="150" />
 
-- **Phá lấu `(beef offal)`**
+- **Phá lấu `(organ meat)`**
 <div>
 	<audio controls="controls">
 	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
