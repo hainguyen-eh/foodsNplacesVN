@@ -18,8 +18,8 @@
 	|**[Bánh ghẹ /bun ghe/](./foods/hoian/banhghe.md) `(fried crab cake)`**|<img src="./foods/hoian/assets/banhghe.jpeg" alt="banhghe" width="200" height="150"/>|
 	|**[Bò Nướng Lá Lót /boh noo-uhng lah loht/]() `(grilled beef wrapped in betel leaf)`**|<img src="./foods/hoian/assets/bonuonglalothoian.jpg" alt="bonuonglalothoian" width="200" height="150"/>|
 	|**[Xiên Nướng /see-en noo-uhng/]() `(grilled skewers)`**|<img src="./foods/hoian/assets/xiennuonghoian.jpeg" alt="xiennuonghoian" width="200" height="150"/>|
-	|**[Bánh Đập /bun dap/]() `(crushed rice cracker)`**|<img src="./foods/hoian/assets/bapdaphoian.jpeg" alt="bapdaphoian" width="200" height="150"/>|
-	|**[Hến Trộn /hen trawn/]() `(stir-fried baby clams mixed with various vegetables, herbs, and spices)`**|<img src="./foods/hoian/assets/hentronhoian.jpeg" alt="hentronhoian" width="200" height="150"/>|
+	|**[Bánh Đập /bun dap/](./foods/hoian/banhdap.md) `(crushed rice cracker)`**|<img src="./foods/hoian/assets/bapdaphoian.jpeg" alt="bapdaphoian" width="200" height="150"/>|
+	|**[Hến Trộn /hen trawn/](./foods/hoian/hentron.md) `(stir-fried baby clams mixed with various vegetables, herbs, and spices)`**|<img src="./foods/hoian/assets/hentronhoian.jpeg" alt="hentronhoian" width="200" height="150"/>|
 	|**[Cà ri bò kho /ka-ree boh khaw/](./foods/hoian/caribokho.md) `(curry beef stew)`**|<img src="./foods/hoian/assets/caribokhohoian.jpeg" alt="caribokhohoian" width="200" height="150"/>|
 	|**[Mỳ Quảng /mee kwang/](./foods/hoian/miquang.md) `(Quang noddle)`**|<img src="./foods/hoian/assets/miquanghoian.jpeg" alt="miquanghoian" width="200" height="150"/>|
 

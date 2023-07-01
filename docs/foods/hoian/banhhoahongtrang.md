@@ -1,4 +1,4 @@
-# [Bánh hoa hồng trắng /bun hwa hawng trang/] `(white rose)`]
+# [Bánh hoa hồng trắng /bun hwa hawng trang/ `(white rose)`]
 
 ## Introduction
 
