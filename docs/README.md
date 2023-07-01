@@ -1,6 +1,6 @@
 <style>
   body {
-    background-image: url("./assets/background.avif");
+    background-image: url("./assets/background.webp");
     background-size: cover;
   }
 </style>
