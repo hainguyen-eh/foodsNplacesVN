@@ -1,3 +1,11 @@
+<style>
+  @media screen and (max-width: 480px) {
+    table img {
+      display: none;
+    }
+  }
+</style>
+
 ## [DaNang]
 
 ### Foods:
