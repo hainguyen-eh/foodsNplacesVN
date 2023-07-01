@@ -13,3 +13,7 @@
 
 ### [Hoi An](./hoian.md)
 ### [Da Nang](./danang.md)
+
+<footer>
+	<p>Special thanks to <a href="https://www.tiktok.com/@touchhoian?is_from_webapp=1&sender_device=pc">touchhoian</a> for contributing to our github page</p>
+</footer>
