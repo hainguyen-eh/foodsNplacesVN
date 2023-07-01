@@ -61,7 +61,7 @@
 	|**[Làng rau Trà Quế](./places/hoian/langrautraque.md) `(Tra Que vegetable village)`**|<img src="./places/hoian/assets/langrautraque.jpeg" alt="langrautraque" width="200" height="150"/>|
 	|**[Rừng dừa Bảy Mẫu](./places/hoian/rungduabaymau.md) `(Bay Mau coconut forest)`**|<img src="./places/hoian/assets/rungduabaymau.jpeg" alt="rungduabaymau" width="200" height="150"/>|
 	|**[Biển An Bàng](./places/hoian/bienanbang.md) `(An Bang beach)`**|<img src="./places/hoian/assets/bienanbang.jpeg" alt="bienanbang" width="200" height="150"/>|
-	|**Biển Cửa Đại `(Cua Dai beach)`**| <img src="./places/hoian/assets/biencuadai.jpeg" alt="biencuadai" width="200" height="150"/>|
-	|**Cù lao Chàm `(Cham islands)`**|<img src="./places/hoian/assets/culaocham.jpeg" alt="culaocham" width="200" height="150"/>|
-	|**Vinpearl**|<img src="./places/hoian/assets/vinpearlhoian.jpeg" alt="vinpearlhoian" width="200" height="150"/>|
-	|**Show ký ức Hội An `(Hoi An memories)`**|<img src="./places/hoian/assets/showkyuchoian.jpeg" alt="showkyuchoian" width="200" height="150"/>|
+	|**[Biển Cửa Đại](./places/hoian/biencuadai.md) `(Cua Dai beach)`**| <img src="./places/hoian/assets/biencuadai.jpeg" alt="biencuadai" width="200" height="150"/>|
+	|**[Cù lao Chàm](./places/hoian/culaocham.md) `(Cham islands)`**|<img src="./places/hoian/assets/culaocham.jpeg" alt="culaocham" width="200" height="150"/>|
+	|**[Vinpearl](./places/hoian/vinpearl.md)**|<img src="./places/hoian/assets/vinpearlhoian.jpeg" alt="vinpearlhoian" width="200" height="150"/>|
+	|**[Show ký ức Hội An](./places/hoian/hoianmemory.md) `(Hoi An memories)`**|<img src="./places/hoian/assets/showkyuchoian.jpeg" alt="showkyuchoian" width="200" height="150"/>|
