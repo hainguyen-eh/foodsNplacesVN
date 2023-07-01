@@ -2,138 +2,48 @@
 
 ### Food:
 - **[Bánh mì /bun mee/](./foods/hoian/banhmi.md) `(bread)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo06/cdo0622usbanh0181.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/us_pron_ogg/c/cdo/cdo06/cdo0622usbanh0181.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/banhmi__phuong.jpeg" alt="banhmi" width="200" height="150"/>
 
 - **[Cơm gà /gum gah/](./foods/hoian/comga.md) `(chicken rice)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/comga_02.jpeg" alt="comga" width="200" height="150"/>
 
 - **[Cao lầu /cow low/](./foods/hoian/caolau.md) `(Hoi An noodles)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/caolau_02.webp" alt="caolau" width="200" height="150"/>
 
 - **[Bánh hoa hồng trắng /bun hwa hawng trang/](./foods/hoian/banhhoahongtrang.md) `(white rose)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/banhhoahongtrang.jpeg" alt="banhhoahongtrang" width="200" height="150"/>
 
 - **[Bánh bèo chén /bun bey-oh chen/](./foods/hoian/banhbeochen.md) `(water fern cake in a small bowl)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/banhbeochen.jpeg" alt="banhbeochen" width="200" height="150"/>
 
 - **[Bánh ướt thịt nướng /bun uwt teet noong/](./foods/hoian/banhuotthitnuong.md) `(steamed thin rice pancake and grilled pork)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/banhuotthitnuong.jpeg" alt="banhuotthitnuong" width="200" height="150"/>
 
 - **[Bún thịt nướng /boon teet noong/](./foods/hoian/bunthitnuong.md) `(Grilled pork and rice vermicelli)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/bunthitnuong.jpeg" alt="bunthitnuong" width="200" height="150"/>
 
 - **[Bánh xèo /bun say-oh/](./foods/hoian/banhxeo.md) `(sizzling crepes)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/banhxeo_02.webp" alt="banhxeo" width="200" height="150"/>
 
 - **[Mì hoành thánh (vằn thắn) /mee hwan tahn/](./foods/hoian/mihoanhthanh.md) `(wonton soup)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/mihoanhthanh.webp" alt="mihoanhthanh" width="200" height="150"/>
 
 - **[Bánh tôm /bun tom/](./foods/hoian/banhtom.md) `(shrimp in batter)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/banhtom.jpeg" alt="banhtom" width="200" height="150"/>
 
 - **[Bánh ghẹ /bun ghe/](./foods/hoian/banhghe.md) `(fried crab cake)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/banhghe.jpeg" alt="banhghe" width="200" height="150"/>
 
 - **[Tào phớ /tao fuh/](./foods/hoian/taopho.md) `(tofu pudding)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/taopho.webp" alt="taopho" width="200" height="150"/>
 
 - **[Chí mà phù (chè mè đen) /cheh meh den/](./foods/hoian/chimaphu.md) `(a kind of sweet soup)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/chemeden.jpeg" alt="chemeden" width="200" height="150"/>
 
 - **[Chè bắp /cheh bup/](./foods/hoian/chebap.md) `(sweet corn porridge)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/chebap.jpeg" alt="chebap" width="200" height="150"/>
 
 - **[Chè đậu đỏ /cheh dow doh/](./foods/hoian/chedaudo.md) `(red bean sweet soup)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/hoian/assets/chedaudo.webp" alt="chedaudo" width="200" height="150"/>
 
 ### Places:
@@ -159,138 +69,48 @@
 
 ### Food:
 - **Bánh tráng kẹp /bun trang kehp/ `(rice paper sandwich)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/banhtrangkep.webp" alt="banhtrangkep" width="200" height="150"/>
 
 - **Bánh nậm /bun nam/ `(flat steamed rice dumplings)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/banhnam.webp" alt="banhnam" width="200" height="150"/>
 
 - **Bánh bột lọc /bun bot lohk/ `(rice dumpling cake)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/banhbotloc.webp" alt="banhbotloc" width="200" height="150"/>
 
 - **Bánh căn /bun cahn/ `(Vietnamese mini pancake)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/banhcan.webp" alt="banhcan" width="200" height="150" />
 
 - **Bánh đập /bun dap/ `(crushed rice cracker)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/banhdap.webp" alt="banhdap" width="200" height="150" />
 
 - **[Bún mắm nêm /boon mam nem/](./foods/danang/bunmamnem.md) `(rice vermicelli with smelly fish sauce)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/bunmamnem.webp" alt="bunmamnem" width="200" height="150" />
 
 - **Bún chả cá /boon cha ka/ `(fish cake noodle)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/bunchaca.webp" alt="bunchaca" width="200" height="150" />
 
 - **Bún hải sản /boon hai san/ `(seafood noodle)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/bunhaisan.webp" alt="bunhaisan" width="200" height="150" />
 
 - **Cơm hến /gum hen/ `(baby basket clams rice)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/comhen.webp" alt="comhen" width="200" height="150" />
 
 - **Nem tré /nem treh/ `(fried fermented pork roll)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/nemtre.webp" alt="nemtre" width="200" height="150" />
 
 - **Phá lấu /fah low/ `(organ meat)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/phalau.webp" alt="phalau" width="200" height="150" />
 
 - **Ram cuốn lá cải /ram kwoon lah kai/ `(fried spring roll in cabbage)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/ramcuonlacai.webp" alt="ramcuonlacai" width="200" height="150" />
 
 - **Cháo quẩy sườn sụn /chow kwai soong soon/ `(rice porridge with deep-fried dough sticks and pork ribs)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/chaoquaysuonsun.webp" alt="chaoquaysuonsun" width="200" height="150" />
 
 - **Kem bơ /kem bo/ `(avocado ice cream)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/kembo.webp" alt="kembo" width="200" height="150" />
 
 - **Chè sầu riêng /cheh sow ree-eng/ `(durian sweet soup)`**
-<!-- <div>
-	<audio controls="controls">
-	  <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu003.mp3">
-	  <source type="audio/ogg" src="https://dictionary.cambridge.org/media/english/uk_pron_ogg/u/ukc/ukcon/ukconfu003.ogg">
-	</audio>
-</div> -->
 > <img src="./foods/danang/assets/chesaurieng.webp" alt="chesaurieng" width="200" height="150" />
 
 ### Places:
