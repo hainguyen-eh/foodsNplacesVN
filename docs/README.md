@@ -48,13 +48,14 @@
 
 ### Places:
 - **Khu phố cổ `(old town)`**
-> <img src="./places/hoian/assets/phoco.jpeg" alt="phoco" width="200" height="150"/>
 
-- **Chùa Cầu `(Cau pagoda)`**
-> <img src="./places/hoian/assets/chuacau.jpeg" alt="chuacau" width="200" height="150"/>
-
-- **Chợ Hội An `(Hoi An market)`**
-> <img src="./places/hoian/assets/chohoian.png" alt="chohoian" width="200" height="150"/>
+	|||
+	| ---- | ----------------- |
+	| **Chùa Cầu `(Cau pagoda)`** |<img src="./places/hoian/assets/chuacau.jpeg" alt="chuacau" width="200" height="150"/>|
+	| **Chùa Phúc Kiến `(Phuc Kien pagoda)`** |<img src="./places/hoian/assets/chuaphuckien.jpeg" alt="chuaphuckien" width="200" height="150"/>|
+	| **Chợ Hội An `(Hoi An market)`** |<img src="./places/hoian/assets/chohoian.png" alt="chohoian" width="200" height="150"/>|
+	|**Chợ đêm `(Night market)`**|<img src="./places/hoian/assets/chodemhoian.jpg" alt="chodemhoian" width="200" height="150"/>|
+	|**Các khu di tích `(monuments)`**||
 
 - **Làng gốm Thanh Hà `(Thanh Ha pottery village)`**
 > <img src="./places/hoian/assets/langomthanhha.jpeg" alt="langomthanhha" width="200" height="150"/>
