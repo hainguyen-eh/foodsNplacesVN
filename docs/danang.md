@@ -50,3 +50,10 @@
 	|**Cầu khoá tình yêu `(love lock bridge)`**|<img src="./places/danang/assets/caukhoatinhyeu.jpeg" alt="caukhoatinhyeu" width="200" height="150" />|
 	|**Đỉnh bàn cờ `(Ban Co peak)`**|<img src="./places/danang/assets/dinhbanco.webp" alt="dinhbanco" width="200" height="150" />|
 	|**Chùa Linh Ứng `(Linh Ung pagoda)`**|<img src="./places/danang/assets/chualinhung.jpeg" alt="chualinhung" width="200" height="150" />|
+	|**Biển Mỹ Khê `(My Khe beach)`**|<img src="./places/danang/assets/bienmykhe.jpeg" alt="bienmykhe" width="200" height="150" />|
+	|**Sơn Trà `(Son Tra Peninsula)`**|<img src="./places/danang/assets/sontra.jpeg" alt="sontra" width="200" height="150" />|
+	|**Chợ Cồn `(Con market)`**|<img src="./places/danang/assets/chocon.jpeg" alt="chocon" width="200" height="150" />|
+	|**Chợ Hàn `(Han market)`**|<img src="./places/danang/assets/chohan.jpeg" alt="chohan" width="200" height="150" />|
+	|**Chợ Đêm Sơn Trà `(Son Tra night market)`**|<img src="./places/danang/assets/chodemsontra.jpeg" alt="chodemsontra" width="200" height="150" />|
+	|**Chợ Đêm Helio `(Helio market)`**|<img src="./places/danang/assets/chodemhelio.jpeg" alt="chodemhelio" width="200" height="150" />|
+
