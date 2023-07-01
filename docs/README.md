@@ -2,6 +2,7 @@
   body {
     background-image: url("./assets/background.webp");
     background-size: cover;
+    background-repeat: no-repeat;
   }
 </style>
 <h2 align="center">Where do you want to discover?</h2>
