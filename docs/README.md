@@ -65,6 +65,21 @@
 - **Rừng dừa Bảy Mẫu `(Bay Mau coconut forest)`**
 > <img src="./places/hoian/assets/rungduabaymau.jpeg" alt="rungduabaymau" width="200" height="150"/>
 
+- **Biển An Bàng `(An Bang beach)`**
+> <img src="./places/hoian/assets/bienanbang.jpeg" alt="bienanbang" width="200" height="150"/>
+
+- **Biển Cửa Đại `(Cua Dai beach)`**
+> <img src="./places/hoian/assets/biencuadai.jpeg" alt="biencuadai" width="200" height="150"/>
+
+- **Cù lao Chàm `(Cham islands)`**
+> <img src="./places/hoian/assets/culaocham.jpeg" alt="culaocham" width="200" height="150"/>
+
+- **Vinpearl**
+> <img src="./places/hoian/assets/vinpearlhoian.jpeg" alt="vinpearlhoian" width="200" height="150"/>
+
+- **Show ký ức Hội An `(Hoi An memories)`**
+> <img src="./places/hoian/assets/showkyuchoian.jpeg" alt="showkyuchoian" width="200" height="150"/>
+
 ## [DaNang]
 
 ### Food:
