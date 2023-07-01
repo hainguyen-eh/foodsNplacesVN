@@ -2,7 +2,11 @@
   body {
     background-image: url("./assets/background.webp");
     background-size: cover;
-    background-repeat: no-repeat;
+  }
+  @media screen and (max-width: 480px) {
+    body {
+      background-image: none;
+    }
   }
 </style>
 <h2 align="center">Where do you want to discover?</h2>
