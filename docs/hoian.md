@@ -57,10 +57,10 @@
 
 	|||
 	| ---- | ----------------- |
-	|**Làng gốm Thanh Hà `(Thanh Ha pottery village)`**|<img src="./places/hoian/assets/langomthanhha.jpeg" alt="langomthanhha" width="200" height="150"/>|
-	|**Làng rau Trà Quế `(Tra Que vegetable village)`**|<img src="./places/hoian/assets/langrautraque.jpeg" alt="langrautraque" width="200" height="150"/>|
-	|**Rừng dừa Bảy Mẫu `(Bay Mau coconut forest)`**|<img src="./places/hoian/assets/rungduabaymau.jpeg" alt="rungduabaymau" width="200" height="150"/>|
-	|**Biển An Bàng `(An Bang beach)`**|<img src="./places/hoian/assets/bienanbang.jpeg" alt="bienanbang" width="200" height="150"/>|
+	|**[Làng gốm Thanh Hà](./places/hoian/langgomthanhha.md) `(Thanh Ha pottery village)`**|<img src="./places/hoian/assets/langomthanhha.jpeg" alt="langomthanhha" width="200" height="150"/>|
+	|**[Làng rau Trà Quế](./places/hoian/langrautraque.md) `(Tra Que vegetable village)`**|<img src="./places/hoian/assets/langrautraque.jpeg" alt="langrautraque" width="200" height="150"/>|
+	|**[Rừng dừa Bảy Mẫu](./places/hoian/rungduabaymau.md) `(Bay Mau coconut forest)`**|<img src="./places/hoian/assets/rungduabaymau.jpeg" alt="rungduabaymau" width="200" height="150"/>|
+	|**[Biển An Bàng](./places/hoian/bienanbang.md) `(An Bang beach)`**|<img src="./places/hoian/assets/bienanbang.jpeg" alt="bienanbang" width="200" height="150"/>|
 	|**Biển Cửa Đại `(Cua Dai beach)`**| <img src="./places/hoian/assets/biencuadai.jpeg" alt="biencuadai" width="200" height="150"/>|
 	|**Cù lao Chàm `(Cham islands)`**|<img src="./places/hoian/assets/culaocham.jpeg" alt="culaocham" width="200" height="150"/>|
 	|**Vinpearl**|<img src="./places/hoian/assets/vinpearlhoian.jpeg" alt="vinpearlhoian" width="200" height="150"/>|
