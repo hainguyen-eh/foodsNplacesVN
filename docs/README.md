@@ -8,6 +8,12 @@
       background-image: none;
     }
   }
+  footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
 </style>
 <h2 align="center">Where do you want to discover?</h2>
 
