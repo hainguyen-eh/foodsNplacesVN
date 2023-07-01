@@ -1,4 +1,4 @@
-# [Cà ri bò kho /ka-ree boh khaw/]() `(curry beef stew)`]
+# [Cà ri bò kho /ka-ree boh khaw/ `(curry beef stew)`]
 
 ## Introduction
 
