@@ -18,7 +18,8 @@
 	|**[Bánh ghẹ /bun ghe/](./foods/hoian/banhghe.md) `(fried crab cake)`**|<img src="./foods/hoian/assets/banhghe.jpeg" alt="banhghe" width="200" height="150"/>|
 	|**[Bò Nướng Lá Lót /boh noo-uhng lah loht/]() `(grilled beef wrapped in betel leaf)`**|<img src="./foods/hoian/assets/bonuonglalothoian.jpg" alt="bonuonglalothoian" width="200" height="150"/>|
 	|**[Xiên Nướng /see-en noo-uhng/]() `(grilled skewers)`**|<img src="./foods/hoian/assets/xiennuonghoian.jpeg" alt="xiennuonghoian" width="200" height="150"/>|
-	|**[Bánh Đập /bun dap/]() `(crushed rice cracker)`**|<img src="./foods/hoian/assets/bapdaphoian.jpeg" alt="bapdaphoian" width="200" height="150"/>|**[Hến Trộn /hen trawn/]() `()`**| <img src="./foods/hoian/assets/hentronhoian.jpeg" alt="hentronhoian" width="200" height="150"/>|
+	|**[Bánh Đập /bun dap/]() `(crushed rice cracker)`**|<img src="./foods/hoian/assets/bapdaphoian.jpeg" alt="bapdaphoian" width="200" height="150"/>|
+	|**[Hến Trộn /hen trawn/]() `()`**|<img src="./foods/hoian/assets/hentronhoian.jpeg" alt="hentronhoian" width="200" height="150"/>|
 	|**[Cà ri bò kho /ka-ree boh khaw/](./foods/hoian/caribokho.md)) `(curry beef stew)`**|<img src="./foods/hoian/assets/caribokhohoian.jpeg" alt="caribokhohoian" width="200" height="150"/>|
 	|**[Mỳ Quảng /mee kwang/]() `(Quang noddle)`**|<img src="./foods/hoian/assets/miquanghoian.jpeg" alt="miquanghoian" width="200" height="150"/>|
 
@@ -32,7 +33,6 @@
 	|**[Chè bắp /cheh bup/](./foods/hoian/chebap.md) `(sweet corn porridge)`**|<img src="./foods/hoian/assets/chebap.jpeg" alt="chebap" width="200" height="150"/>|
 	|**[Chí mà phù (chè mè đen) /cheh meh den/](./foods/hoian/chimaphu.md) `(a kind of sweet soup)`**|<img src="./foods/hoian/assets/chemeden.jpeg" alt="chemeden" width="200" height="150"/>|
 	|**[Tào phớ /tao fuh/](./foods/hoian/taopho.md) `(tofu pudding)`**|<img src="./foods/hoian/assets/taopho.webp" alt="taopho" width="200" height="150"/>|
-
 
 ### Places:
 - **`Khu phố cổ (old town)`**
