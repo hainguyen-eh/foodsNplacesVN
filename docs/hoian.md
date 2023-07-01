@@ -1,6 +1,6 @@
 <style>
   @media screen and (max-width: 480px) {
-    .table img {
+    table img {
       display: none;
     }
   }
