@@ -28,7 +28,7 @@
 
 	|||
 	| ---- | ----------------- |
-	|**[Nước Mót /noo-uhk moht/]() `(Mot’s traditional herbal drink)`**|<img src="./foods/hoian/assets/nuocmot.jpeg" alt="nuocmot" width="200" height="150"/>|
+	|**[Nước Mót /noo-uhk moht/](./foods/hoian/nuocmot.md) `(Mot’s traditional herbal drink)`**|<img src="./foods/hoian/assets/nuocmot.jpeg" alt="nuocmot" width="200" height="150"/>|
 	|**[Chè đậu đỏ /cheh dow doh/](./foods/hoian/chedaudo.md) `(red bean sweet soup)`**|<img src="./foods/hoian/assets/chedaudo.webp" alt="chedaudo" width="200" height="150"/>|
 	|**[Chè bắp /cheh bup/](./foods/hoian/chebap.md) `(sweet corn porridge)`**|<img src="./foods/hoian/assets/chebap.jpeg" alt="chebap" width="200" height="150"/>|
 	|**[Chí mà phù (chè mè đen) /cheh meh den/](./foods/hoian/chimaphu.md) `(a kind of sweet soup)`**|<img src="./foods/hoian/assets/chemeden.jpeg" alt="chemeden" width="200" height="150"/>|
