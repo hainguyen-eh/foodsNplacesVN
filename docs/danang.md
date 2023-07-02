@@ -16,7 +16,7 @@
 	|**Bánh tráng kẹp /bun trang kehp/ `(rice paper sandwich)`**|<img src="./foods/danang/assets/banhtrangkep.webp" alt="banhtrangkep" width="200" height="150"/>|
 	|**Bánh nậm /bun nam/ `(flat steamed rice dumplings)`**|<img src="./foods/danang/assets/banhnam.webp" alt="banhnam" width="200" height="150"/>|
 	|**Bánh bột lọc /bun bot lohk/ `(rice dumplings cake)`**|<img src="./foods/danang/assets/banhbotloc.webp" alt="banhbotloc" width="200" height="150"/>|
-	|**Bánh căn /bun cahn/ `(Vietnamese mini pancake)`**|<img src="./foods/danang/assets/banhcan.webp" alt="banhcan" width="200" height="150" />|
+	|**[Bánh căn /bun cahn/](./foods/danang/banhcan.md) `(Vietnamese mini pancake)`**|<img src="./foods/danang/assets/banhcan.webp" alt="banhcan" width="200" height="150" />|
 	|**Bánh đập /bun dap/ `(crushed rice cracker)`**|<img src="./foods/danang/assets/banhdap.webp" alt="banhdap" width="200" height="150" />|
 	|**[Bún mắm nêm /boon mam nem/](./foods/danang/bunmamnem.md) `(rice vermicelli with smelly fish sauce)`**|<img src="./foods/danang/assets/bunmamnem.webp" alt="bunmamnem" width="200" height="150" />|
 	|**Bún chả cá /boon cha ka/ `(fish cake noodle)`**|<img src="./foods/danang/assets/bunchaca.webp" alt="bunchaca" width="200" height="150" />|
