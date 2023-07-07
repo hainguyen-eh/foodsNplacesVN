@@ -1,7 +1,9 @@
 # [Cao lầu /cow low/ `(a pork noodle dish)`]
 
 ## Introduction
+> According to historical records, "Cao lầu" appeared in the 17th century. During this time, Chinese and Japanese merchants frequently visited the port of Hoi An. They brought their own culinary culture and gradually created the conditions for the birth of cao lầu - which can be seen as a fusion of Chinese and Japanese cuisine.
 
+> The name "Cao lầu" means a dish with high-quality ingredients and flavors, enjoyed on a high floor. In other words, diners can enjoy the dish while admiring the beautiful scenery of Hoi An from a high floor.
 ## Ingredient
 
 ## Recommended places
