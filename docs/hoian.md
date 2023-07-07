@@ -9,7 +9,7 @@
 ## [HoiAn]
 
 ### Foods:
-- **`Some outstanding foods`**
+- **`MUST TRY`**
 
 	|||
 	| ---- | ----------------- |
@@ -32,7 +32,7 @@
 	|**[Mỳ Quảng /mee kwang/](./foods/hoian/miquang.md) `(Quang noddle)`**|<img src="./foods/hoian/assets/miquanghoian.jpeg" alt="miquanghoian" width="200" height="150"/>|
 
 ### Drinks:
-- **`Some outstanding drinks`**
+- **`MUST DRINK`**
 
 	|||
 	| ---- | ----------------- |
@@ -53,7 +53,7 @@
 	|**Chợ đêm `(Night market)`**|<img src="./places/hoian/assets/chodemhoian.jpg" alt="chodemhoian" width="200" height="150"/>|
 	|**Các khu di tích `(monuments)`**||
 
-- **`Other most wanted places`**
+- **`MUST GO`**
 
 	|||
 	| ---- | ----------------- |

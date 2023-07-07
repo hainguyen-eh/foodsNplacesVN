@@ -9,7 +9,7 @@
 ## [DaNang]
 
 ### Foods:
-- **`Some outstanding foods`**
+- **`MUST TRY`**
 
 	|||
 	| ---- | ----------------- |
@@ -28,7 +28,7 @@
 	|**Cháo quẩy sườn sụn /chow kwai soong soon/ `(rice porridge with deep-fried dough sticks and pork ribs)`**|<img src="./foods/danang/assets/chaoquaysuonsun.webp" alt="chaoquaysuonsun" width="200" height="150" />|
 
 ### Drinks:
-- **`Some outstanding drinks`**
+- **`MUST DRINK`**
 
 	|||
 	| ---- | ----------------- |
@@ -36,7 +36,7 @@
 	|**Chè sầu riêng /cheh sow ree-eng/ `(durian sweet soup)`**|<img src="./foods/danang/assets/chesaurieng.webp" alt="chesaurieng" width="200" height="150" />|
 
 ### Places:
-- **`most wanted places`**
+- **`MUST GO`**
 
 	|||
 	| ---- | ----------------- |

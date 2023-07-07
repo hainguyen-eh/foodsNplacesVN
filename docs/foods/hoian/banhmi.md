@@ -1,6 +1,7 @@
 # [Bánh mì `(bread)`]
 
 ## Introduction
+> Vietnamese baguette, or banh mi, originated from the baguette brought to Southern Vietnam by the French in the 20th century. Some researchers believe that this dish had been present in Vietnam for 150 years. In the following decades, banh mi spread throughout Central and Southern Vietnam, especially in Saigon.
 
 ## Ingredient
 
