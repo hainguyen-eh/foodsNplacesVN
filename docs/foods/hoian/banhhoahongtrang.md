@@ -1,6 +1,7 @@
 # [Bánh hoa hồng trắng /bun hwa hawng trang/ `(white rose)`]
 
 ## Introduction
+> This is one of the most famous specialties in the old town of Hoi An. When presented, the dish is arranged on a plate to resemble a blooming white rose, hence the name "banh hoa hong trang"
 
 ## Ingredient
 
