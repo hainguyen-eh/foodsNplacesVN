@@ -40,6 +40,29 @@
   .next {
     right: 0;
   }
+
+  @media only screen and (max-width: 600px) {
+    .carousel-container {
+      height: 300px;
+    }
+
+    .carousel {
+      max-width: 100%;
+      height: 100%;
+    }
+
+    .slide {
+      flex-direction: row;
+      justify-content: center;
+    }
+
+    .description {
+      margin-top: 0;
+      margin-left: 10px;
+      font-size: 14px;
+      text-align: left;
+    }
+  }
 </style>
 
 <script>
