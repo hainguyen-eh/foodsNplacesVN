@@ -1,10 +1,21 @@
 <style>
   .carousel-container {
     position: relative;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
   }
   .carousel {
-    width: 100%;
-    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 600px;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
     white-space: nowrap;
   }
   img {
