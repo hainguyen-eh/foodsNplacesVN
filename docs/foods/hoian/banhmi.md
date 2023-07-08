@@ -1,9 +1,45 @@
+<style>
+  .carousel {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+  }
+</style>
+
+<script>
+  var slideIndex = 0;
+  showSlides();
+
+  function showSlides() {
+    var i;
+    var slides = document.getElementsByTagName("img");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
+    slides[slideIndex-1].style.display = "inline-block";
+    setTimeout(showSlides, 5000); // Change image every 5 seconds
+  }
+</script>
 # [Bánh mì `(bread)`]
 
 ## Introduction
 > Vietnamese baguette, or banh mi, originated from the baguette brought to Southern Vietnam by the French in the 20th century. Some researchers believe that this dish had been present in Vietnam for 150 years. In the following decades, banh mi spread throughout Central and Southern Vietnam, especially in Saigon.
 
 ## Ingredient
+
+## Food gallery
+<div class="carousel">
+  <img src="./assets/banhmi_gallery/banhmi_thitnuong.png" width="600" height="500">
+  <img src="./assets/banhmi_gallery/banhmi_chalua.jpeg" width="600" height="500">
+</div>
 
 ## Recommended places
 
