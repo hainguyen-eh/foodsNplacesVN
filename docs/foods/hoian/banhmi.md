@@ -1,4 +1,7 @@
 <style>
+  .carousel-container {
+    position: relative;
+  }
   .carousel {
     width: 100%;
     overflow: hidden;
@@ -10,22 +13,47 @@
     height: auto;
     vertical-align: middle;
   }
+  .prev, .next {
+    position: absolute;
+    top: 50%;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    z-index: 1;
+  }
+  .prev {
+    left: 0;
+  }
+  .next {
+    right: 0;
+  }
 </style>
 
 <script>
-  var slideIndex = 0;
-  showSlides();
+  var slideIndex = 1;
+  showSlides(slideIndex);
 
-  function showSlides() {
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  function showSlides(n) {
     var i;
     var slides = document.querySelectorAll(".carousel img");
+    var dots = document.querySelectorAll(".dot");
+    if (n > slides.length) { slideIndex = 1 }
+    if (n < 1) { slideIndex = slides.length }
     for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
     }
-    slideIndex++;
-    if (slideIndex > slides.length) {slideIndex = 1}
-    slides[slideIndex-1].style.display = "inline-block";
-    setTimeout(showSlides, 5000); // Change image every 5 seconds
+    for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex - 1].style.display = "block";
+    dots[slideIndex - 1].className += " active";
   }
 </script>
 # [Bánh mì `(bread)`]
@@ -36,9 +64,13 @@
 ## Ingredient
 
 ## Food gallery
-<div class="carousel">
-  <img src="./assets/banhmi_gallery/banhmi_thitnuong.png" width="600" height="500">
-  <img src="./assets/banhmi_gallery/banhmi_chalua.jpeg" width="600" height="500">
+<div class="carousel-container">
+  <div class="carousel">
+    <img src="./assets/banhmi_gallery/banhmi_thitnuong.png" width="600" height="500">
+    <img src="./assets/banhmi_gallery/banhmi_chalua.jpeg" width="600" height="500">
+  </div>
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 
 ## Recommended places
