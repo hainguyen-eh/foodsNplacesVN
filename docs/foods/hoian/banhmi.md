@@ -125,6 +125,3 @@
 ## Price
 
 ## Reviews
-
-## Q/A
-[Link to the discussion](https://github.com/hainguyen-eh/foodsNplacesVN/discussions/2){:target="_blank"}
