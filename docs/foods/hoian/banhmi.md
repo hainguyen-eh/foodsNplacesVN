@@ -18,7 +18,7 @@
 
   function showSlides() {
     var i;
-    var slides = document.getElementsByTagName("img");
+    var slides = document.querySelectorAll(".carousel img");
     for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
     }
