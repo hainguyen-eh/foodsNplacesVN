@@ -1,6 +1,7 @@
 # [Cơm gà `(chicken rice)`]
 
 ## Introduction
+> `Cơm gà` Hội An is a famous specialty dish of Hoi An, Vietnam. It is believed to have originated from the Chinese community living in Hoi An and has been adapted to the unique style of this region. Initially, `cơm gà` Hội An was sold on mobile carts, but due to the popularity of this dish, there are now many fixed `cơm gà` restaurants throughout the city.
 
 ## Ingredient
 
