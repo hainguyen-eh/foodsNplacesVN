@@ -1,6 +1,9 @@
-# [Bánh xèo /bun say-oh/ `(crispy Vietnam pancake)`]
+# [Bánh xèo /bun say-oh/ `(sizzling pancake)`]
 
 ## Introduction
+> `Bánh xèo` is a crispy, stuffed rice pancake popular in Vietnam. The name refers to the sound (from xèo – 'sizzling') a thin layer of rice batter makes when it is poured into the hot skillet.
+
+> `Bánh Xèo` is a traditional street food in Vietnam. The working class mainly ate it because it was cheap and easy. Its origins are unknown. However, Vietnamese people agreed that the creation of this dish could be somewhere in Central Vietnam through the fusion of French culture from the French colonial times or South Vietnam by migrating immigrants moving into Vietnam and mixing with the surrounding culture. Others believe `Bánh Xèo` came from mixing Cham culture and Vietnamese cuisine.
 
 ## Ingredient
 

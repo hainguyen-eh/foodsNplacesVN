@@ -20,7 +20,7 @@
 	|**[Bánh bèo /bun bey-oh/](./foods/hoian/banhbeochen.md) `(cup cake)`**|<img src="./foods/hoian/assets/banhbeochen.jpeg" alt="banhbeochen" width="200" height="150"/>|
 	|**[Bánh ướt thịt nướng /bun uwt teet noong/](./foods/hoian/banhuotthitnuong.md) `(steamed thin rice pancake and grilled pork)`**|<img src="./foods/hoian/assets/banhuotthitnuong.jpeg" alt="banhuotthitnuong" width="200" height="150"/>|
 	|**[Bún thịt nướng /boon teet noong/](./foods/hoian/bunthitnuong.md) `(grilled pork on skewers with noodles)`**|<img src="./foods/hoian/assets/bunthitnuong.jpeg" alt="bunthitnuong" width="200" height="150"/>|
-	|**[Bánh xèo /bun say-oh/](./foods/hoian/banhxeo.md) `(crispy Vietnam pancake)`**|<img src="./foods/hoian/assets/banhxeo_02.webp" alt="banhxeo" width="200" height="150"/>|
+	|**[Bánh xèo /bun say-oh/](./foods/hoian/banhxeo.md) `(sizzling pancake)`**|<img src="./foods/hoian/assets/banhxeo_02.webp" alt="banhxeo" width="200" height="150"/>|
 	|**[Mì hoành thánh (vằn thắn) /mee hwan tahn/](./foods/hoian/mihoanhthanh.md) `(wonton soup)`**|<img src="./foods/hoian/assets/mihoanhthanh.webp" alt="mihoanhthanh" width="200" height="150"/>|
 	|**[Bánh tôm /bun tom/](./foods/hoian/banhtom.md) `(shrimp in batter)`**|<img src="./foods/hoian/assets/banhtom.jpeg" alt="banhtom" width="200" height="150"/>|
 	|**[Bánh ghẹ /bun ghe/](./foods/hoian/banhghe.md) `(fried crab cake)`**|<img src="./foods/hoian/assets/banhghe.jpeg" alt="banhghe" width="200" height="150"/>|
