@@ -11,7 +11,6 @@
   .carousel {
     display: flex;
     justify-content: center;
-    align-items: center;
     max-width: 600px;
     height: 100%;
     margin: 0 auto;
@@ -77,8 +76,10 @@
 ## Food gallery
 <div class="carousel-container">
   <div class="carousel">
-    <img src="./assets/banhmi_gallery/banhmi_thitnuong.png" width="600" height="500">
-    <img src="./assets/banhmi_gallery/banhmi_chalua.jpeg" width="600" height="500">
+    <img src="./assets/banhmi_gallery/banhmi_thitnuong.png">
+    <img src="./assets/banhmi_gallery/banhmi_chalua.jpeg">
+    <img src="./assets/banhmi_gallery/banhmi_bi.jpeg">
+    <img src="./assets/banhmi_gallery/banhmi_dacbiet.jpeg">
   </div>
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
