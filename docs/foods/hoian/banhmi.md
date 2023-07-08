@@ -29,8 +29,6 @@
     font-size: 30px;
     font-weight: bold;
     padding: 10px;
-    color: white;
-    background-color: rgba(0, 0, 0, 0.5);
     cursor: pointer;
     z-index: 1;
   }
