@@ -1,6 +1,7 @@
 # [Bánh Đập /bun dap/ `(crushed rice cracker)`]
 
 ## Introduction
+> `Banh dap` is a type of cake that is quite popular in the coastal provinces of Central Vietnam. `"Dap"` simply means the cake must be beaten before eating. `Banh dap` is a delicate combination of wet cake and grilled rice paper. The wet cake is spread with scallion oil and mashed green beans. `Banh dap` is also served with shrimp, boiled pork, and grilled meat, depending on the region.
 
 ## Ingredient
 

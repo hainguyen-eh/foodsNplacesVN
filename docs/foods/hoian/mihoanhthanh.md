@@ -3,7 +3,7 @@
 ## Introduction
 > Chinese immigrants settled in the old town of Hoi An as early as the 17th century. Many Chinese-origin dishes were introduced to Hoi An, which were then adopted by local residents and adapted to their culinary habits. Wonton soups are one such dish that underwent some changes to suit the local taste.
 
-> In Cantonese, "hoanh" is the pronunciation of the word "vân" which means "cloud"; "thanh" is also the Cantonese pronunciation of the word "thôn," which means "to swallow." Therefore, `hoanh thanh` literally means "swallowing clouds."
+> In Cantonese, `"hoanh"` is the pronunciation of the word `"vân,"` which means `"cloud"`; `"thanh"` is also the Cantonese pronunciation of the word `"thôn,"` which means `"to swallow."` Therefore, `hoanh thanh` literally means `"swallowing clouds."`
 
 ## Ingredient
 
