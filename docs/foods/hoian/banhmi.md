@@ -81,6 +81,9 @@
     <img src="./assets/banhmi_gallery/banhmi_bi.jpeg">
     <img src="./assets/banhmi_gallery/banhmi_dacbiet.jpeg">
     <img src="./assets/banhmi_gallery/banhmi_xiumai.jpeg">
+    <img src="./assets/banhmi_gallery/banhmi_cay.jpeg">
+    <img src="./assets/banhmi_gallery/banhmi_botloc.jpeg">
+    <img src="./assets/banhmi_gallery/banhmi_phuong.jpeg">
   </div>
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
