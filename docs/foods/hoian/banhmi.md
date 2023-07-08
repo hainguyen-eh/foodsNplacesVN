@@ -10,7 +10,7 @@
   }
   .carousel {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     max-width: 600px;
     height: 100%;
     margin: 0 auto;
@@ -80,6 +80,7 @@
     <img src="./assets/banhmi_gallery/banhmi_chalua.jpeg">
     <img src="./assets/banhmi_gallery/banhmi_bi.jpeg">
     <img src="./assets/banhmi_gallery/banhmi_dacbiet.jpeg">
+    <img src="./assets/banhmi_gallery/banhmi_xiumai.jpeg">
   </div>
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
