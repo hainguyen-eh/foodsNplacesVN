@@ -29,7 +29,7 @@
 	|**[Bánh Đập /bun dap/](./foods/hoian/banhdap.md) `(crushed rice cracker)`**|<img src="./foods/hoian/assets/bapdaphoian.jpeg" alt="bapdaphoian" width="200" height="150"/>|
 	|**[Hến Trộn /hen trawn/](./foods/hoian/hentron.md) `(stir-fried baby clams mixed with various vegetables, herbs, and spices)`**|<img src="./foods/hoian/assets/hentronhoian.jpeg" alt="hentronhoian" width="200" height="150"/>|
 	|**[Cà ri bò kho /ka-ree boh khaw/](./foods/hoian/caribokho.md) `(curry beef stew)`**|<img src="./foods/hoian/assets/caribokhohoian.jpeg" alt="caribokhohoian" width="200" height="150"/>|
-	|**[Mỳ Quảng /mee kwang/](./foods/hoian/miquang.md) `(Quang noddle)`**|<img src="./foods/hoian/assets/miquanghoian.jpeg" alt="miquanghoian" width="200" height="150"/>|
+	|**[Mì Quảng /mee kwang/](./foods/hoian/miquang.md) `(Quang noddle)`**|<img src="./foods/hoian/assets/miquanghoian.jpeg" alt="miquanghoian" width="200" height="150"/>|
 
 ### Drinks:
 - **`MUST DRINK`**

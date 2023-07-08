@@ -1,6 +1,9 @@
-# [Mỳ Quảng /mee kwang/  `(Quang noddle)`]
+# [Mì Quảng /mee kwang/  `(Quang noddle)`]
 
 ## Introduction
+> `Mi Quang` has been around for a long time, about 500 years ago. Specifically, in the 16th century, Hoi An was an international trading port with bustling commercial activities. At that time, there were many foreigners who came to Hoi An to live and work. This land became a cultural and culinary convergence point from many places, especially influenced by the Chinese.
+
+> The Chinese who came to live in Hoi An brought their cuisine, including "mi" - a product made from wheat flour created by the Chinese. The people of Hoi An were influenced by Chinese cuisine, so they also created a dish that resembled the noodles of their country. However, instead of being made from wheat flour, Mi Quang noodles are made from rice flour. Perhaps people borrowed the name "mi" because of its shape, which is all in the form of noodles. And because this dish originated in Quang land, the people gave it a very simple name, "Mi Quang".
 
 ## Ingredient
 
