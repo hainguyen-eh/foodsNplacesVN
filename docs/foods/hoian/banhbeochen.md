@@ -1,6 +1,7 @@
-# [Bánh bèo chén /bun bey-oh chen/ `(water fern cake in a small bowl)`]
+# [Bánh bèo /bun bey-oh chen/ `(cup cake)`]
 
 ## Introduction
+> `Banh beo` is a type of cake originating from the former imperial capital of Hue and is very popular in the Central region of Vietnam, as well as being widely consumed in the Southern region. `Banh beo` has become a beautiful aspect of Vietnamese culinary culture for many generations. The name `"banh beo"` may come from its shape, which resembles a leaf of the duckweed plant.
 
 ## Ingredient
 

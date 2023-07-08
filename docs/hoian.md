@@ -17,7 +17,7 @@
 	|**[Cơm gà /gum gah/](./foods/hoian/comga.md) `(chicken rice)`**|<img src="./foods/hoian/assets/comga_02.jpeg" alt="comga" width="200" height="150"/>|
 	|**[Cao lầu /cow low/](./foods/hoian/caolau.md) `(a pork noodle dish)`**|<img src="./foods/hoian/assets/caolau_02.webp" alt="caolau" width="200" height="150"/>|
 	|**[Bánh hoa hồng trắng /bun hwa hawng trang/](./foods/hoian/banhhoahongtrang.md) `(white rose)`**|<img src="./foods/hoian/assets/banhhoahongtrang.jpeg" alt="banhhoahongtrang" width="200" height="150"/>|
-	|**[Bánh bèo chén /bun bey-oh chen/](./foods/hoian/banhbeochen.md) `(water fern cake in a small bowl)`**|<img src="./foods/hoian/assets/banhbeochen.jpeg" alt="banhbeochen" width="200" height="150"/>|
+	|**[Bánh bèo /bun bey-oh/](./foods/hoian/banhbeochen.md) `(cup cake)`**|<img src="./foods/hoian/assets/banhbeochen.jpeg" alt="banhbeochen" width="200" height="150"/>|
 	|**[Bánh ướt thịt nướng /bun uwt teet noong/](./foods/hoian/banhuotthitnuong.md) `(steamed thin rice pancake and grilled pork)`**|<img src="./foods/hoian/assets/banhuotthitnuong.jpeg" alt="banhuotthitnuong" width="200" height="150"/>|
 	|**[Bún thịt nướng /boon teet noong/](./foods/hoian/bunthitnuong.md) `(grilled pork on skewers with noodles)`**|<img src="./foods/hoian/assets/bunthitnuong.jpeg" alt="bunthitnuong" width="200" height="150"/>|
 	|**[Bánh xèo /bun say-oh/](./foods/hoian/banhxeo.md) `(crispy Vietnam pancake)`**|<img src="./foods/hoian/assets/banhxeo_02.webp" alt="banhxeo" width="200" height="150"/>|
